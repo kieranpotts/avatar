@@ -1,0 +1,6 @@
+= Avatar
+
+This repository stores my personalized icon for use on social media.
+
+''''
+Copyright © Kieran Potts – All rights reserved
