@@ -1,6 +1,8 @@
 = Avatar
 
-This repository stores my personalized icon for use on social media.
+This repository stores the source and distributable files for my online profile icon.
+
+NOTE: Affinity Designer is required to edit the master file.
 
 ''''
 Copyright © Kieran Potts – All rights reserved
