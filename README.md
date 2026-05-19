@@ -1,9 +1,9 @@
-= Avatar
+# Avatar
 
 This repository stores the source and distributable files for my online profile icon.
 
-NOTE: Affinity Designer is required to edit the source files.
+> **Note:** Affinity Designer is required to edit the source files.
 
-''''
+---
 
 Copyright © Kieran Potts – All rights reserved
