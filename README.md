@@ -2,8 +2,6 @@
 
 This repository stores the source and distributable files for my online profile icon.
 
-> **Note:** Affinity Designer is required to edit the source files.
-
 ---
 
 Copyright © Kieran Potts – All rights reserved
