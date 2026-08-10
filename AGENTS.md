@@ -22,4 +22,4 @@ Source and distributable files for Kieran Potts' online profile icon.
 
 This project follows Kieran Potts' technical standards.
 
-- **[TS-9: Version Control](https://raw.githubusercontent.com/kieranpotts/standards/refs/heads/latest/dev/src/009/AGENTS.md)**
+- **[TS-9: Version Control](https://raw.githubusercontent.com/kieranpotts/standards/refs/heads/latest/dev/src/modules/ROOT/partials/009/AGENTS.md)**
