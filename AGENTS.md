@@ -9,10 +9,10 @@ Source and distributable files for Kieran Potts' online profile icon.
 
 ## Project structure
 
-- **`src/avatar-2026-master.svg`** \
+- `src/avatar-2026-master.svg` \
   The master source file.
 
-- **`dist/`** \
+- `dist/` \
   Exported distributables, organized by color persona (`blue`, `cyan`,
   `green`, `magenta`, `orange`, `pink`, `purple`, `red`, `teal`, `yellow`).
   Per `dist/README.md`: `blue` is the personal persona, `purple` is the
